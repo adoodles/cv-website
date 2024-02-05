@@ -1,0 +1,47 @@
+{
+    "headline": {
+        "title": "Hi, \nmy name is Alex",
+        "subtitle": "Aspiring ML Engineer",
+        "content": "I'm a recent graduate from UCL studying AI in Biomedicine and Healthcare. \n\nI have experience in software development & DevOps as well."
+    },
+    "carousel": {
+        "ai_content": [
+          [
+            "nlp",
+            "NLP model alignment",
+            "project description"
+          ],
+          [
+            "rl",
+            "Deep RL for tractography",
+            "project description"
+          ],
+          [
+            "mri",
+            "Model refinement and analysis for MRI data",
+            "RAMP leaderboard etc"
+          ]
+        ],
+        "swe_devops_content": [
+          [
+            "frontend",
+            "ChairVISE",
+            "Software project with 4 etc"
+          ],
+          [
+            "devops",
+            "Terra.bio workflow",
+            "Set up working scripts for genomic analysis"
+          ],
+          [
+            "cpp",
+            "Static Code Analysis",
+            "blah"
+          ]
+        ]
+    },
+    "about":{
+      "title": "UCL Graduate/Research Associate @ NUS",
+      "intro": "I'm an aspiring ML engineer currently working as a research associate in microbiome research. I recently graduated from UCL with a Master's Degree in AI, which gave me plenty of experience using and finetuning different AI models. \n \n My current interest is watching game development videos by Thor from PirateSoftware, maybe eventually coding my own game myself?"
+    }
+}
